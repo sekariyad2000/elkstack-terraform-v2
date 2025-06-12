@@ -176,10 +176,8 @@ ELKSTACK-TERRAFORM/
 ├── elastic-enrollment-token.sh
 ├── elastic-password.sh
 ├── kibana-verification-code.sh
-├── LICENSE
 ├── main.tf
 ├── variables.tf
-├── README.md
 ```
 
 ---
